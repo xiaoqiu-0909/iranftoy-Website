@@ -1,6 +1,8 @@
 ## Welcome to GitHub Pages
 
-You can use the [Github网页源码编辑](https://github.com/iranftoy/xiaoqiu.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+此网页为iranftoy的Github仓库
+
+[Github网页源码编辑入口](https://github.com/iranftoy/xiaoqiu.github.io/edit/gh-pages/index.md)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
