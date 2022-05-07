@@ -4,4 +4,4 @@
 
 [Github网页源码编辑入口](https://github.com/iranftoy/xiaoqiu.github.io/edit/gh-pages/index.md)
 
-![avatar](/root/
+![avatar](/root/AA88791F-23E1-467A-93ED-267F00C4F3C8.jpeg)
